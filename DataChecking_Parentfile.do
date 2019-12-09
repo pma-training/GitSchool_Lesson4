@@ -30,10 +30,10 @@ set maxvar 30000
 *******************************************************************************
 *BEFORE USE THE FOLLOWING NEED TO BE UPDATED:
 *Country/Round/Abbreviations
-global Country CI	 
-global Phase Phase1
-global phase 1
-global CCPX CIP1
+global Country RJ	 
+global Phase PhaseX
+global phase X
+global CCPX RJPX
 
 *Year of the Survey
 local SurveyYear 2020 
