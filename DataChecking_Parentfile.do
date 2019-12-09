@@ -45,9 +45,9 @@ global year3 2020
 
 ******CSV FILE NAMES ****
 *HHQ CSV File name 
-global HHQcsv CIP1_Household_Questionnaire_v10
+global HHQcsv RJP1_Household_Questionnaire_v3
 *FQ CSV File name
-global FQcsv CIP1_Female_Questionnaire_v10
+global FQcsv RJP1_Female_Questionnaire_v3
 
 ***If the REs used a second version of the form, update these 
 *If they did not use a second version, DONT UPDATE 
